@@ -13,3 +13,6 @@ Here are my certificates：
 [Convolutional Neural Networks](https://coursera.org/share/e7051cbeb5601b7792989ea70ef06832)
 
 [Sequence Models](https://coursera.org/share/6102887eb20b00e776ebba4ac1dec616)
+
+[Deep Learning Specialization](https://coursera.org/share/92c07ab949dfb86c3f90bd2d8f4d72b3)
+
