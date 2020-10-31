@@ -11,3 +11,6 @@
 #### Generative Adversarial Networks (GANs) (deeplearning.ai) (Pending)
 #### AI for Medicine (deeplearning.ai) (Pending)
 #### TensorFlow: Data and Deployment (deeplearning.ai) (Pending)
+
+
+![Hi](https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/200w.webp)
