@@ -16,3 +16,5 @@ Here are my certificates：
 
 [Deep Learning Specialization](https://coursera.org/share/92c07ab949dfb86c3f90bd2d8f4d72b3)
 
+![Deep Learning](https://deeplearning-assets.s3.amazonaws.com/content/uploads/2018/09/deeplearning-logo-fb.png)
+
