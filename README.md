@@ -6,7 +6,7 @@
 ### Currently, this repository contains the following courses:
 #### Deep Learning [Andrew Ng](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en)
 #### Machine Learning [Andrew Ng](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en)
-#### Tensorflow (deeplearning.ai) <font face="黑体" color=yellow size=5>(Pending)</font>
+#### Tensorflow (deeplearning.ai) (Pending)
 #### Natural Language Processing (deeplearning.ai) 
 #### Generative Adversarial Networks (GANs) (deeplearning.ai) 
 #### AI for Medicine (deeplearning.ai) 
@@ -14,5 +14,12 @@
 
 
 ![Hi](https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/200w.webp)
-
+<!--
+```diff
+- red 
++ green
+! orange
+# gray
+```
+-->
 <!-- <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font> -->
