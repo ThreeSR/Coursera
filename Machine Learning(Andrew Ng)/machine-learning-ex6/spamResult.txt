@@ -1,0 +1,86 @@
+Preprocessing sample email (emailSample1.txt)
+
+==== Processed Email ====
+
+anyon know how much it cost to host a web portal well it depend on how mani 
+visitor you re expect thi can be anywher from less than number buck a month 
+to a coupl of dollarnumb you should checkout httpaddr or perhap amazon ecnumb 
+if your run someth big to unsubscrib yourself from thi mail list send an 
+email to emailaddr 
+
+=========================
+Word Indices: 
+ 86 916 794 1077 883 370 1699 790 1822 1831 883 431 1171 794 1002 1893 1364 592 1676 238 162 89 688 945 1663 1120 1062 1699 375 1162 479 1893 1510 799 1182 1237 810 1895 1440 1547 181 1699 1758 1896 688 1676 992 961 1477 71 530 1699 531
+
+Program paused. Press enter to continue.
+
+Extracting features from sample email (emailSample1.txt)
+
+==== Processed Email ====
+
+anyon know how much it cost to host a web portal well it depend on how mani 
+visitor you re expect thi can be anywher from less than number buck a month 
+to a coupl of dollarnumb you should checkout httpaddr or perhap amazon ecnumb 
+if your run someth big to unsubscrib yourself from thi mail list send an 
+email to emailaddr 
+
+=========================
+Length of feature vector: 1899
+Number of non-zero entries: 45
+Program paused. Press enter to continue.
+
+Training Linear SVM (Spam Classification)
+(this may take 1 to 2 minutes) ...
+
+Training ......................................................................
+...............................................................................
+...............................................................................
+................ Done! 
+
+Training Accuracy: 99.850000
+
+Evaluating the trained Linear SVM on a test set ...
+Test Accuracy: 98.900000
+
+Top predictors of spam: 
+ our             (0.498516) 
+ click           (0.462391) 
+ remov           (0.415950) 
+ guarante        (0.386385) 
+ visit           (0.373522) 
+ basenumb        (0.344837) 
+ dollar          (0.323914) 
+ will            (0.271066) 
+ pleas           (0.271033) 
+ price           (0.260626) 
+ lo              (0.256423) 
+ nbsp            (0.255747) 
+ most            (0.251195) 
+ hour            (0.249076) 
+ ga              (0.247976) 
+
+
+
+Program paused. Press enter to continue.
+
+==== Processed Email ====
+
+with a mastertrackcertif you ll have the flexibl to take cours and particip 
+in live interact session with a group of high calib peersntir onlin build in 
+demand skill earn credit toward the master of comput scienc degre program and 
+boost your resum with a certif from the well known and number rank institut 
+for innov arizona state univers you ll have access to grade feedback from 
+instructor live instruct from asu s world renown faculti and the opportun to 
+studi with a cohort of like mind and driven peer why ar mastertrackcertif on 
+coursera uniqu top qualiti we partner with lead univers to deliv the best 
+program onlin afford earn a high qualiti career focus certif for much less 
+than equival on campu program interact benefit from team base learn and live 
+interact with instructor modular and stackabl with a mastertracky can start 
+work toward your master of comput scienc todai 
+
+=========================
+
+Processed Sample3.txt
+
+Spam Classification: 1
+(1 indicates spam, 0 indicates not spam)
