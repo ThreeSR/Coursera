@@ -4,12 +4,12 @@
 ![Coursera](https://digital.hbs.edu/platform-digit/wp-content/uploads/sites/2/2020/02/coursera-vector-logo-3-900x200.png)
 
 ### Currently, this repository contains the following courses:
-#### Deep Learning [Andrew Ng](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en)
-#### Machine Learning [Andrew Ng](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en)
+#### [Deep Learning](https://github.com/ThreeSR/Coursera/tree/main/Deep%20Learning(Andrew%20Ng)) [Andrew Ng](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en)
+#### [Machine Learning](https://github.com/ThreeSR/Coursera/tree/main/Machine%20Learning(Andrew%20Ng)) [Andrew Ng](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en)
 #### Tensorflow (deeplearning.ai) (Pending)
-#### Natural Language Processing (deeplearning.ai) 
-#### Generative Adversarial Networks (GANs) (deeplearning.ai) 
-#### AI for Medicine (deeplearning.ai) 
+#### [Natural Language Processing](https://github.com/ThreeSR/Coursera/tree/main/Natural%20Language%20Processing%20Specialization%20in%20Coursera) (deeplearning.ai) 
+#### [Generative Adversarial Networks (GANs)](https://github.com/ThreeSR/Coursera/tree/main/Generative%20Adversarial%20Networks%20(GANs)%20Specialization%20in%20Coursera) (deeplearning.ai) 
+#### [AI for Medicine](https://github.com/ThreeSR/Coursera/tree/main/AI%20for%20Medicine%20Specialization%20in%20Coursera) (deeplearning.ai) 
 #### TensorFlow: Data and Deployment (deeplearning.ai) (Pending)
 
 
