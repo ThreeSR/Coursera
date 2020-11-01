@@ -9,4 +9,4 @@
 #### [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/verify/SXQXWMFDFNTR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
 #### [Generative Adversarial Networks (GANs) Specialization](https://coursera.org/share/094ffb2c049be0f5f11cd8a614918e06)
 
-![GAN](https://github.com/ThreeSR/Coursera/blob/main/Natural%20Language%20Processing%20Specialization%20in%20Coursera/NLP.jpg?raw=true)
+![GAN](https://github.com/ThreeSR/Coursera/blob/main/Generative%20Adversarial%20Networks%20(GANs)%20Specialization%20in%20Coursera/GAN.jpg?raw=true)
