@@ -1,0 +1,242 @@
+>> ex8_cofi
+Loading movie ratings dataset.
+
+Average rating for movie 1 (Toy Story): 3.878319 / 5
+
+
+Program paused. Press enter to continue.
+Cost at loaded parameters: 22.224604 
+(this value should be about 22.22)
+
+Program paused. Press enter to continue.
+
+Checking Gradients (without regularization) ... 
+   -1.9933   -1.9933
+   -7.4996   -7.4996
+    1.6601    1.6601
+   -6.6616   -6.6616
+   -2.7301   -2.7301
+   -1.4181   -1.4181
+    1.1288    1.1288
+   -8.0085   -8.0085
+   -1.9737   -1.9737
+    3.3707    3.3707
+   -1.6331   -1.6331
+   -1.6269   -1.6269
+    0.1748    0.1748
+    3.8704    3.8704
+    0.6222    0.6222
+    1.3170    1.3170
+    3.5611    3.5611
+   -1.0890   -1.0890
+    7.9152    7.9152
+    0.4521    0.4521
+   -0.4622   -0.4622
+    7.2905    7.2905
+   -2.0801   -2.0801
+   -1.8569   -1.8569
+   -0.0706   -0.0706
+   -1.7714   -1.7714
+    2.2004    2.2004
+
+The above two columns you get should be very similar.
+(Left-Your Numerical Gradient, Right-Analytical Gradient)
+
+If your cost function implementation is correct, then 
+the relative difference will be small (less than 1e-9). 
+
+Relative Difference: 1.39004e-12
+
+Program paused. Press enter to continue.
+Cost at loaded parameters (lambda = 1.5): 31.344056 
+(this value should be about 31.34)
+
+Program paused. Press enter to continue.
+
+Checking Gradients (with regularization) ... 
+    0.7071    0.7071
+    5.8657    5.8657
+    1.7726    1.7726
+    1.2737    1.2737
+   -5.9945   -5.9945
+    5.9167    5.9167
+   -3.0710   -3.0710
+  -11.4480  -11.4480
+   -6.0664   -6.0664
+   -5.6315   -5.6315
+    5.3468    5.3468
+   -7.2264   -7.2264
+   -2.5834   -2.5834
+   -0.0436   -0.0436
+   -3.1330   -3.1330
+   -0.1256   -0.1256
+   -1.3120   -1.3120
+  -13.9400  -13.9400
+   10.6048   10.6048
+   -2.8197   -2.8197
+    1.9574    1.9574
+    0.9351    0.9351
+    1.2910    1.2910
+    6.3148    6.3148
+   10.6667   10.6667
+   -5.9808   -5.9808
+    1.1004    1.1004
+
+The above two columns you get should be very similar.
+(Left-Your Numerical Gradient, Right-Analytical Gradient)
+
+If your cost function implementation is correct, then 
+the relative difference will be small (less than 1e-9). 
+
+Relative Difference: 1.88231e-12
+
+Program paused. Press enter to continue.
+
+
+New user ratings:
+Rated 4 for Toy Story (1995)
+Rated 3 for Twelve Monkeys (1995)
+Rated 5 for Usual Suspects, The (1995)
+Rated 4 for Outbreak (1995)
+Rated 5 for Shawshank Redemption, The (1994)
+Rated 3 for While You Were Sleeping (1995)
+Rated 5 for Forrest Gump (1994)
+Rated 2 for Silence of the Lambs, The (1991)
+Rated 4 for Alien (1979)
+Rated 5 for Die Hard 2 (1990)
+Rated 5 for Sphere (1998)
+
+Program paused. Press enter to continue.
+
+Training collaborative filtering...
+Iteration     1 | Cost: 3.522635e+05
+Iteration     2 | Cost: 1.297942e+05
+Iteration     3 | Cost: 1.164326e+05
+Iteration     4 | Cost: 8.557391e+04
+Iteration     5 | Cost: 6.596678e+04
+Iteration     6 | Cost: 5.568916e+04
+Iteration     7 | Cost: 4.874835e+04
+Iteration     8 | Cost: 4.505056e+04
+Iteration     9 | Cost: 4.313325e+04
+Iteration    10 | Cost: 4.188640e+04
+Iteration    11 | Cost: 4.119097e+04
+Iteration    12 | Cost: 4.074110e+04
+Iteration    13 | Cost: 4.058619e+04
+Iteration    14 | Cost: 4.024559e+04
+Iteration    15 | Cost: 4.006442e+04
+Iteration    16 | Cost: 4.000641e+04
+Iteration    17 | Cost: 3.980561e+04
+Iteration    18 | Cost: 3.968648e+04
+Iteration    19 | Cost: 3.961563e+04
+Iteration    20 | Cost: 3.951823e+04
+Iteration    21 | Cost: 3.947751e+04
+Iteration    22 | Cost: 3.945414e+04
+Iteration    23 | Cost: 3.936662e+04
+Iteration    24 | Cost: 3.932354e+04
+Iteration    25 | Cost: 3.930021e+04
+Iteration    26 | Cost: 3.920403e+04
+Iteration    27 | Cost: 3.916475e+04
+Iteration    28 | Cost: 3.913893e+04
+Iteration    29 | Cost: 3.912362e+04
+Iteration    30 | Cost: 3.910356e+04
+Iteration    31 | Cost: 3.909414e+04
+Iteration    32 | Cost: 3.908882e+04
+Iteration    33 | Cost: 3.908169e+04
+Iteration    34 | Cost: 3.907498e+04
+Iteration    35 | Cost: 3.907153e+04
+Iteration    36 | Cost: 3.905650e+04
+Iteration    37 | Cost: 3.905030e+04
+Iteration    38 | Cost: 3.904875e+04
+Iteration    39 | Cost: 3.903657e+04
+Iteration    40 | Cost: 3.903280e+04
+Iteration    41 | Cost: 3.902724e+04
+Iteration    42 | Cost: 3.902343e+04
+Iteration    43 | Cost: 3.902015e+04
+Iteration    44 | Cost: 3.901452e+04
+Iteration    45 | Cost: 3.901097e+04
+Iteration    46 | Cost: 3.900963e+04
+Iteration    47 | Cost: 3.900794e+04
+Iteration    48 | Cost: 3.900667e+04
+Iteration    49 | Cost: 3.900369e+04
+Iteration    50 | Cost: 3.899936e+04
+Iteration    51 | Cost: 3.899761e+04
+Iteration    52 | Cost: 3.899744e+04
+Iteration    53 | Cost: 3.899643e+04
+Iteration    54 | Cost: 3.899605e+04
+Iteration    55 | Cost: 3.899454e+04
+Iteration    56 | Cost: 3.899208e+04
+Iteration    57 | Cost: 3.899050e+04
+Iteration    58 | Cost: 3.898859e+04
+Iteration    59 | Cost: 3.898777e+04
+Iteration    60 | Cost: 3.898672e+04
+Iteration    61 | Cost: 3.898616e+04
+Iteration    62 | Cost: 3.898601e+04
+Iteration    63 | Cost: 3.898552e+04
+Iteration    64 | Cost: 3.898533e+04
+Iteration    65 | Cost: 3.898509e+04
+Iteration    66 | Cost: 3.898444e+04
+Iteration    67 | Cost: 3.898366e+04
+Iteration    68 | Cost: 3.898230e+04
+Iteration    69 | Cost: 3.898095e+04
+Iteration    70 | Cost: 3.897902e+04
+Iteration    71 | Cost: 3.897772e+04
+Iteration    72 | Cost: 3.897719e+04
+Iteration    73 | Cost: 3.897645e+04
+Iteration    74 | Cost: 3.897621e+04
+Iteration    75 | Cost: 3.897548e+04
+Iteration    76 | Cost: 3.897446e+04
+Iteration    77 | Cost: 3.897347e+04
+Iteration    78 | Cost: 3.897280e+04
+Iteration    79 | Cost: 3.897212e+04
+Iteration    80 | Cost: 3.897112e+04
+Iteration    81 | Cost: 3.897008e+04
+Iteration    82 | Cost: 3.896975e+04
+Iteration    83 | Cost: 3.896934e+04
+Iteration    84 | Cost: 3.896891e+04
+Iteration    85 | Cost: 3.896768e+04
+Iteration    86 | Cost: 3.896424e+04
+Iteration    87 | Cost: 3.896277e+04
+Iteration    88 | Cost: 3.896129e+04
+Iteration    89 | Cost: 3.896026e+04
+Iteration    90 | Cost: 3.895968e+04
+Iteration    91 | Cost: 3.895906e+04
+Iteration    92 | Cost: 3.895857e+04
+Iteration    93 | Cost: 3.895819e+04
+Iteration    94 | Cost: 3.895745e+04
+Iteration    95 | Cost: 3.895691e+04
+Iteration    96 | Cost: 3.895651e+04
+Iteration    97 | Cost: 3.895622e+04
+Iteration    98 | Cost: 3.895578e+04
+Iteration    99 | Cost: 3.895559e+04
+Iteration   100 | Cost: 3.895548e+04
+
+Recommender system learning completed.
+
+Program paused. Press enter to continue.
+
+Top recommendations for you:
+Predicting rating 5.0 for movie Someone Else's America (1995)
+Predicting rating 5.0 for movie Star Kid (1997)
+Predicting rating 5.0 for movie Prefontaine (1997)
+Predicting rating 5.0 for movie Santa with Muscles (1996)
+Predicting rating 5.0 for movie They Made Me a Criminal (1939)
+Predicting rating 5.0 for movie Great Day in Harlem, A (1994)
+Predicting rating 5.0 for movie Entertaining Angels: The Dorothy Day Story (1996)
+Predicting rating 5.0 for movie Saint of Fort Washington, The (1993)
+Predicting rating 5.0 for movie Aiqing wansui (1994)
+Predicting rating 5.0 for movie Marlene Dietrich: Shadow and Light (1996)
+
+
+Original ratings provided:
+Rated 4 for Toy Story (1995)
+Rated 3 for Twelve Monkeys (1995)
+Rated 5 for Usual Suspects, The (1995)
+Rated 4 for Outbreak (1995)
+Rated 5 for Shawshank Redemption, The (1994)
+Rated 3 for While You Were Sleeping (1995)
+Rated 5 for Forrest Gump (1994)
+Rated 2 for Silence of the Lambs, The (1991)
+Rated 4 for Alien (1979)
+Rated 5 for Die Hard 2 (1990)
+Rated 5 for Sphere (1998)
+>> 
