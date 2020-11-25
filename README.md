@@ -11,7 +11,8 @@
 #### [Generative Adversarial Networks (GANs)](https://github.com/ThreeSR/Coursera/tree/main/Generative%20Adversarial%20Networks%20(GANs)%20Specialization%20in%20Coursera) (deeplearning.ai) 
 #### [AI for Medicine](https://github.com/ThreeSR/Coursera/tree/main/AI%20for%20Medicine%20Specialization%20in%20Coursera) (deeplearning.ai) 
 #### TensorFlow: Data and Deployment (deeplearning.ai) (Pending)
-
+#### C++ For C Programmers, Part A (University of California, Santa Cruz) (Pending)
+#### C++ For C Programmers, Part B (University of California, Santa Cruz) (Pending)
 
 ![Hi](https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/200w.webp)
 <!--
@@ -19,7 +20,7 @@
 - red 
 + green
 ! orange
-# gray
+# gray                  
 ```
 -->
 <!-- <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font> -->
