@@ -14,6 +14,7 @@
 #### C++ For C Programmers, Part A (University of California, Santa Cruz) (Pending)
 #### C++ For C Programmers, Part B (University of California, Santa Cruz) (Pending)
 #### Financial Markets (Yale University) (Pending)
+#### Blockchain (State University of New York at Buffalo) (Pending)
 
 ![Hi](https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/200w.webp)
 <!--  
