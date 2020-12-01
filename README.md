@@ -15,8 +15,9 @@
 #### C++ For C Programmers, Part B (University of California, Santa Cruz) (Pending)
 #### Financial Markets (Yale University) (Pending)
 #### Blockchain (State University of New York at Buffalo) (Pending)
+#### Object-Oriented Data Structures in C++ (University of Illinois at Urbana-Champaign) (Pending)
 
-![Hi](https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/200w.webp)
+![Hi](https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/200w.webp)  
 <!--  
 ```diff
 - red 
