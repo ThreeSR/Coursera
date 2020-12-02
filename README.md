@@ -14,10 +14,10 @@
 #### C++ For C Programmers, Part A (University of California, Santa Cruz) (Pending)
 #### C++ For C Programmers, Part B (University of California, Santa Cruz) (Pending)
 #### Financial Markets (Yale University) (Pending)
-#### Blockchain (State University of New York at Buffalo) (Pending)
+#### [Blockchain](https://github.com/ThreeSR/Coursera/tree/main/Blockchain%20Specialization%20in%20Coursera) (State University of New York at Buffalo)
 #### Object-Oriented Data Structures in C++ (University of Illinois at Urbana-Champaign) (Pending)
 
-![Hi](https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/200w.webp)  
+![Hi](https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/200w.webp)   
 <!--  
 ```diff
 - red 
